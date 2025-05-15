@@ -1,4 +1,3 @@
-# Readme-Malavika
 # 👋 Hello, I'm Malavika Ajith!
 
 Welcome to my GitHub profile! 
