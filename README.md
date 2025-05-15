@@ -3,7 +3,9 @@
 
 Welcome to my GitHub profile! 
 
-I'm a passionate aerospace engineer with hands-on experience in:
+I'm a passionate aerospace engineer who is looking forward to explore the intricacies of aerospace.
+
+Hands-on experience in:
 
 - ✈️ **Aerodynamics & CFD**
 - 🚀 **UAVs & Aircraft Design**
@@ -30,6 +32,3 @@ I'm a passionate aerospace engineer with hands-on experience in:
 ---
 
 Thanks for stopping by! Feel free to explore my repos and reach out if you're interested in collaboration or just want to talk about aerospace innovation!
-
-
-readme for the profiile: Malavika Ajith
